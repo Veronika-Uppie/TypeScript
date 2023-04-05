@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbcb14f5-fe2a-472b-ae86-861de662583c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TypeScript.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/app.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/hw.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/interfaces/user_interface.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/services/user_service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +64,17 @@
       <workItem from="1680598520152" duration="1635000" />
       <workItem from="1680601566326" duration="6026000" />
       <workItem from="1680612048767" duration="944000" />
-      <workItem from="1680707769598" duration="6610000" />
+      <workItem from="1680707769598" duration="6879000" />
+      <workItem from="1680715640201" duration="636000" />
     </task>
+    <task id="LOCAL-00001" summary="hw">
+      <created>1680715537496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680715537496</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,11 +82,12 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
