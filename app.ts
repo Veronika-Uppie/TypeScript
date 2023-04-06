@@ -38,7 +38,7 @@
 // }
 
 
-interface ICores{
+interface ICore{
     flight: number,
     core: {
         reuse_count: number,
@@ -46,7 +46,7 @@ interface ICores{
     }
 }
 
-interface Ipayloads{
+interface Ipayload{
     payload_type: string,
         payload_mass_kg: number,
     payload_mass_lbs: number
@@ -65,10 +65,10 @@ interface IUser{
     rocket: {
         rocket_name: string,
         first_stage: {
-            cores: ICores[]
+            cores: ICore[]
         },
         second_stage: {
-            payloads: Ipayloads[]
+            payloads: Ipayload[]
         }
     }
 }
@@ -103,17 +103,24 @@ interface IUser{
 
 
 
-
-
-class User {
-    constructor(public name: string, public age: number, public gender: string) {
-        this.name = name
-        this.age = age
-        this.gender = gender
-    }
+interface IUser{
+    name:string
+    age:number
+    gender: string
 }
 
-let user = new User("Max",18, 'male');
+    const user:IUser = {
+        name:"Max",
+        age:18,
+        gender:'male'
+    }
+
+
+
+
+
+
+
 
 const sum = (a:number, b:number):number => {
     return a+b

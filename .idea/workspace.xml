@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbcb14f5-fe2a-472b-ae86-861de662583c" name="Changes" comment="">
+    <list default="true" id="cbcb14f5-fe2a-472b-ae86-861de662583c" name="Changes" comment="hw">
       <change afterPath="$PROJECT_DIR$/lesson1/app.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/hw.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson1/interfaces/user_interface.ts" afterDir="false" />
@@ -66,7 +66,8 @@
       <workItem from="1680612048767" duration="944000" />
       <workItem from="1680707769598" duration="6879000" />
       <workItem from="1680715640201" duration="1310000" />
-      <workItem from="1680717779592" duration="313000" />
+      <workItem from="1680717779592" duration="985000" />
+      <workItem from="1680797674822" duration="551000" />
     </task>
     <task id="LOCAL-00001" summary="hw">
       <created>1680715537496</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680716299893</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw">
+      <created>1680718107328</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680718107328</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
