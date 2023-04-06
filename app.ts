@@ -115,22 +115,15 @@ interface IUser{
         gender:'male'
     }
 
-
-
-
-
-
-
-
-const sum = (a:number, b:number):number => {
+function sum(a:number, b:number):number{
     return a+b
 }
 
-const showSum = (a:number,b:number) => {
+function showSum(a:number,b:number){
     console.log(a + b);
 }
 
-const incAge = (someUser, inc:number) => {
+function incAge(someUser:IUser, inc:number):IUser{
     someUser.age+=inc
     return someUser
 }
